@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B5B36DF-69A0-4F6F-A60A-79FE60FEC544</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xpandu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3DCEBCAEDD7DDD0C72038DACD2CDE81A9543B0B0</key>
+		<string>https://github.com/faizician/xpandu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xpandu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3DCEBCAEDD7DDD0C72038DACD2CDE81A9543B0B0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/faizician/xpandu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3DCEBCAEDD7DDD0C72038DACD2CDE81A9543B0B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3DCEBCAEDD7DDD0C72038DACD2CDE81A9543B0B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xpandu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
